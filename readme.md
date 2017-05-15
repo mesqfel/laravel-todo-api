@@ -1,6 +1,6 @@
 # laravel-todo-api
-A todo-list API made with microframework Lumen by Laravel
-You can check it live here: http://www.mesquitafelipe.com/to-do-list/
+A todo-list API made with microframework Lumen by Laravel<br>
+You can check it live here: http://www.mesquitafelipe.com/to-do-list/<br>
 Disclaimer: this is just the API. To run this app locally you will also need to clone the Client side here: https://github.com/mesqfel/angular-todo
 
 ### Getting Started
