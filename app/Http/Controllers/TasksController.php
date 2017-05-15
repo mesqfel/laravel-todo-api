@@ -12,9 +12,8 @@ class TasksController extends Controller
 
     //Get all Tasks
     public function index()
-    {
-
-        $tasks = Task::get();
+    {        
+        $tasks = Task::oldest()->get();
         return response()->json($tasks);
     }
 
